@@ -1,0 +1,26 @@
+_repo: Keur-van-Nederlandsche-SynoniemenTen-gebruike-bij-de-studie-voor-de-hulp--en-hoofdacte-en-op-__34784
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34784-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pluim, Teunis
+    gutenberg_agent_id: '37226'
+    url: http://www.gutenberg.org/2009/agents/37226
+description: ''
+gutenberg_issued: '2010-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34784'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PF'
+- !lcsh 'Dutch language -- Synonyms and antonyms'
+title: 'Keur van Nederlandsche Synoniemen
+
+  Ten gebruike bij de studie voor de hulp- en hoofdacte en op inrichtingen voor M.O.'
+url: http://www.gutenberg.org/ebooks/34784
